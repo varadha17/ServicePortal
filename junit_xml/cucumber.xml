@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="1">
+<testcase classname="Epic Page Validation" name="Get EpicNumber from excel and enter the data then search" time="11.980928">
+<system-out><![CDATA[Given Validate different datas.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
